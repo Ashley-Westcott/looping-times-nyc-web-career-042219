@@ -1,7 +1,6 @@
 def using_times
-	counter = 0
-	7loop do
-	  
+	7.times do
+  return
 end
 
 
